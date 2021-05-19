@@ -6,6 +6,7 @@
 5. set up a Header to route between the components
 
 ## What you need to do to follow notes
-1. look through `./src/components/Promises` for an example of using a promise and handling the error that might occur
-2. look through `./src/components/AsyncAwait` for an example of handling multiple promises using async/await
-3. look through `./src/components/Throw` to see an example of throwing our own error
+1. look through `./src/utils/promiseStuff` to see the 4 different promises I built
+2. look through `./src/components/Promises` for an example of using a promise and handling the error that might occur
+3. look through `./src/components/AsyncAwait` for an example of handling multiple promises using async/await
+4. look through `./src/components/Throw` to see an example of throwing our own error
